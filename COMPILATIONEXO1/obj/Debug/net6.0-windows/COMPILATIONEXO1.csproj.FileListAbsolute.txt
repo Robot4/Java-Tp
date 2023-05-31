@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\bin\Debug\net6.0-windows\COMPILATIONEXO1.exe
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\bin\Debug\net6.0-windows\COMPILATIONEXO1.deps.json
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\bin\Debug\net6.0-windows\COMPILATIONEXO1.runtimeconfig.json
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\bin\Debug\net6.0-windows\COMPILATIONEXO1.dll
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\bin\Debug\net6.0-windows\COMPILATIONEXO1.pdb
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.Form1.resources
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.AssemblyInfo.cs
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.dll
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\refint\COMPILATIONEXO1.dll
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.pdb
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\COMPILATIONEXO1.genruntimeconfig.cache
+C:\Users\pc\source\repos\COMPILATIONEXO1\COMPILATIONEXO1\obj\Debug\net6.0-windows\ref\COMPILATIONEXO1.dll
